@@ -64,7 +64,7 @@
 						$calc1 = $alt*$alt;
 						$calc2 = $peso/$calc1;
 						$result = $calc2;
-						echo number_format ($resultado,2,',','.');
+						echo number_format ($result,2,',','.');
 					?>
 				</td>
 				<td> 
@@ -96,7 +96,7 @@
 						$calc1 = $alt*$alt;
 						$calc2 = $peso/$calc1;
 						$result = $calc2;
-						echo number_format ($resultado,2,',','.');
+						echo number_format ($result,2,',','.');
 					?>
 				</td>
 				<td> 
@@ -128,7 +128,7 @@
 						$calc1 = $alt*$alt;
 						$calc2 = $peso/$calc1;
 						$result = $calc2;
-						echo number_format ($resultado,2,',','.');
+						echo number_format ($result,2,',','.');
 						
 						
 					?>
@@ -162,7 +162,7 @@
 						$calc1 = $alt*$alt;
 						$calc2 = $peso/$calc1;
 						$result = $calc2;
-						echo number_format ($resultado,2,',','.');
+						echo number_format ($result,2,',','.');
 						
 					?>
 				</td>
@@ -196,7 +196,7 @@
 						$calc1 = $alt*$alt;
 						$calc2 = $peso/$calc1;
 						$result = $calc2;
-						echo number_format ($resultado,2,',','.');
+						echo number_format ($result,2,',','.');
 					?>
 				</td>
 				<td> 
